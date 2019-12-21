@@ -1,0 +1,8 @@
+[{
+    "modid": "jfchatcolors",
+    "name": "JFChatColors",
+    "description": "Shows the /scoreboard teams as a prefix in the chat with their specified color",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["amup"]
+}]
